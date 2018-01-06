@@ -1,0 +1,11 @@
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\bin\Debug\PrEstructurasIterativa.exe.config
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\bin\Debug\PrEstructurasIterativa.exe
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\bin\Debug\PrEstructurasIterativa.pdb
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.csprojResolveAssemblyReference.cache
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.Form1.resources
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.Properties.Resources.resources
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.csproj.GenerateResource.Cache
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.csproj.CoreCompileInputs.cache
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.exe
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.pdb
+F:\POO\PrEstructurasIterativa\PrEstructurasIterativa\obj\Debug\PrEstructurasIterativa.frmNotas.resources
